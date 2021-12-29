@@ -22,7 +22,6 @@ public class Uc_02_Perfect_Number {
         Scanner obj = new Scanner(System.in);
         System.out.println("enter your number");
         int num = obj.nextInt();
-
         perfectNumber(num);
     }
 }
